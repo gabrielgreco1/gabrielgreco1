@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabriel Greco</h1>
-<h3 align="center">A backend developer/data engineer from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Greco</h1>
+<h3 align="center">A backend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgreco1&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgreco1" /> </p>
 

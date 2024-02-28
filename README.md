@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgreco1&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgreco1" /> </p>
 
-- 🔭 I’m currently working on **top secret projects :D**
+- 🔭 I’m currently working on Lumma Despachante, with integrations and RPA's
 
-- 📄 Next steps **C#, Kubernetes, AWS**
+- 📄 Next steps to study: **C#, Kubernetes, AWS**
 
 - 🌱 I’m currently learning **Express.js, Nest.js, MongoDB**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles and news on [https://www.linkedin.com/in/gabriel-greco-365b541a3/](https://www.linkedin.com/in/gabriel-greco-365b541a3/)
 
-- 💬 Ask me about **Python, Pandas, JS, Puppeteer.js**
+- 💬 Ask me about: **JS, Axios, Puppeteer, Python, Selenium, Pandas**
 
 - 📫 How to reach me **gabrielargreco@gmail.com**
 

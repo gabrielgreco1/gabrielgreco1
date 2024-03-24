@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on Lumma Despachante, with integrations and RPA's
 
-- 📄 Next steps to study: **C#, Kubernetes, AWS**
+- 📄 Next steps to study: **Typescript, C#, AWS**
 
 - 🌱 I’m currently learning **Express.js, Nest.js, MongoDB**
 
-- 🤝 I’m looking for help with **Docker, http protocols**
+- 🤝 I’m looking for help with **Docker**
 
 - 📝 I regularly write articles and news on [https://www.linkedin.com/in/gabriel-greco-365b541a3/](https://www.linkedin.com/in/gabriel-greco-365b541a3/)
 
-- 💬 Ask me about: **JS, Axios, Puppeteer, Python, Selenium, Pandas**
+- 💬 Ask me about: **JS, Puppeteer, Axios, Python, Selenium, Pandas**
 
 - 📫 How to reach me **gabrielargreco@gmail.com**
 

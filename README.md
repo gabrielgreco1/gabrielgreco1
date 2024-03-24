@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Docker**
 
-- 📝 I regularly write articles and news on [https://www.linkedin.com/in/gabriel-greco-365b541a3/](https://www.linkedin.com/in/gabriel-greco-365b541a3/)
+- 📝 I regularly write articles and news on [https://medium.com/@gabrielargreco/](https://medium.com/@gabrielargreco/)
 
 - 💬 Ask me about: **JS, Puppeteer, Axios, Python, Selenium, Pandas**
 

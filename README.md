@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgreco1&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgreco1" /> </p>
 
+- 🤖 I love automating boring processes
+
 - 🔭 I’m currently working on Lumma Despachante, with integrations and RPA's
 
 - 📄 Next steps to study: **Typescript, C#, AWS**

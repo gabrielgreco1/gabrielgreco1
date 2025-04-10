@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Lumma Despachante, with integrations and RPA's
 
-- 📄 Next steps to study: **Typescript, C#, AWS**
+- 📄 Next steps to study: **Typescript, C#**
 
 - 🌱 I’m currently learning **Express.js, Nest.js, MongoDB**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles and news on [https://medium.com/@gabrielargreco/](https://medium.com/@gabrielargreco/)
 
-- 💬 Ask me about: **JS, Puppeteer, Axios, Python, Selenium, Pandas**
+- 💬 Ask me about: **Python, Javascript, AWS, webscrapping, botting**
 
 - 📫 How to reach me **gabrielargreco@gmail.com**
 

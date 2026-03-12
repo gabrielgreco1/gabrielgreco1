@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Greco</h1>
+<h1 align="center">Gabriel Greco</h1>
 <h3 align="center">Software Engineer focused on Automation & AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgreco1&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgreco1" /> </p>

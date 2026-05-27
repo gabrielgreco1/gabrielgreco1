@@ -1,23 +1,48 @@
-<h1 align="center">Gabriel Greco</h1>
-<h3 align="center">Software Engineer focused on Automation & AI</h3>
+<h1 align="center">Hey, I'm Gabriel Greco 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgreco1&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgreco1" /> </p>
+  <p align="center">
+    <b>Software Engineer · Automation & AI</b><br/>
+    <sub>Building large-scale data pipelines & agent systems @ <a 
+  href="https://labrynth.ai">Labrynth AI</a></sub>
+  </p>
 
-- 🤖 I love automating boring processes
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=gabrielgreco1&label=Profile%20
+  views&color=0e75b6&style=flat-square" alt="profile views" />
+    <a href="https://www.linkedin.com/in/gabriel-greco-365b541a3/"><img 
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linke
+  din&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://medium.com/@gabrielargreco/"><img src="https://img.shields.
+  io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" 
+  alt="Medium" /></a>
+    <a href="mailto:gabrielargreco@gmail.com"><img src="https://img.shields.io/b
+  adge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" 
+  /></a>
+  </p>
 
-- 🔭 I’m currently working on **Labrynth AI**, building large-scale data pipelines for GraphRAG
+  ---
 
-- 🌱 I’m currently learning **LLM & Agent Orchestration, GraphRAG and Advanced System Design**
+  ### 🧠 About me
+  
+  ```yaml
+  role:       Software Engineer
+  focus:      Automation, AI Agents, GraphRAG
+  working_on: Labrynth AI — large-scale data pipelines for GraphRAG
+  learning:   LLM & agent orchestration, GraphRAG, advanced system design
+  ask_me:     Python · JavaScript · Web Scraping · AI Agents · ML
+  fun_fact:   I love automating boring processes ⚙️ 
 
-- 🤝 I’m looking for help with **Cloud Infrastructure, Scalability & MLOps**
+  ---
+  🛠️  Tech stack
+  
+  ---
+  📊 GitHub stats
 
-- 📝 Sometimes I write articles and news on [https://medium.com/@gabrielargreco/](https://medium.com/@gabrielargreco/)
+  ---
+  🤝 Looking to collaborate on
+  
+  Cloud Infrastructure · Scalability · MLOps · Agent orchestration
 
-- 💬 Ask me about: **Python, JavaScript, Web Scraping, AI Agents & ML**
+  ✍️  Latest writing
 
-- 📫 How to reach me **gabrielargreco@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabrielgreco](https://www.linkedin.com/in/gabriel-greco-365b541a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielgreco" height="30" width="40" /></a>
-</p>
+  medium.com/@gabrielargreco (https://medium.com/@gabrielargreco/)

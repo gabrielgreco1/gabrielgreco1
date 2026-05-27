@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Labrynth AI**, building large-scale data pipelines for GraphRAG
 
-- 🌱 I’m currently learning **LLM Orchestration, GraphRAG and Advanced System Design**
+- 🌱 I’m currently learning **LLM & Agent Orchestration, GraphRAG and Advanced System Design**
 
 - 🤝 I’m looking for help with **Cloud Infrastructure, Scalability & MLOps**
 

@@ -117,7 +117,7 @@ Real-time drawing mirror — captures a physical notebook via Mac Desk View and 
 - 💼 **LinkedIn** — [gabriel-greco](https://www.linkedin.com/in/gabriel-greco-365b541a3/)
 - ✍️ **Medium** — [@gabrielargreco](https://medium.com/@gabrielargreco/)
 - 📧 **Email** — gabrielargreco@gmail.com
-- 🌐 **Web** — [labrynth.ai]([https://labrynth.ai](https://gabrielgreco.com))
+- 🌐 **Web** — [gabrielgreco.com](https://gabrielgreco.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabrielgreco1&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />

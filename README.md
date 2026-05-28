@@ -40,30 +40,6 @@ const stack = {
   scraping:  ["Playwright", "curl_cffi", "Scrapy", "BeautifulSoup"],
 };
 ```
-
----
-
-### 🚀 What I'm building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🧬 Labrynth AI
-Large-scale data pipelines feeding a **GraphRAG** system — ingestion, chunking, embeddings, reranking, and knowledge-graph construction.
-<br/>**Stack:** Python · Prefect · Supabase · Neo4j · Claude
-
-  </td>
-  <td width="50%" valign="top">
-
-#### 💡 Olume
-Real-time drawing mirror — captures a physical notebook via Mac Desk View and streams clean, vectorized strokes for screen sharing.
-<br/>**Stack:** Python · OpenCV · Flask · React · Stripe
-
-  </td>
-  </tr>
-</table>
-
 ---
 
 ### 📊 GitHub stats

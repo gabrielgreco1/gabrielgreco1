@@ -1,14 +1,6 @@
 <h1 align="center">Hey, I'm Gabriel Greco 👋</h1>
 <p align="center"><b>Software Engineer · Automation & AI</b></p>
 <p align="center"><sub>Building large-scale data pipelines & agent systems @ <a href="https://labrynth.ai">Labrynth AI</a></sub></p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-greco-365b541a3/">LinkedIn</a> ·
-  <a href="https://medium.com/@gabrielargreco/">Medium</a> ·
-  <a href="mailto:gabrielargreco@gmail.com">Email</a> ·
-  <a href="https://gabrielgreco.com">gabrielgreco.com</a>
-</p>
-
 ---
 
 ### 🧠 About me

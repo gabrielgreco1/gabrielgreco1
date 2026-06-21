@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Gabriel Greco 👋</h1>
 <p align="center"><b>Currently, Data Enginner at <a href="https://labrynth.ai">@labrynth</b></p>
-<p align="center"><sub>Building large-scale data pipelines & agent systems</a></sub></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabrielgreco1&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>

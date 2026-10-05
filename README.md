@@ -7,7 +7,7 @@
 ### 🧠 About me
 
 ```yaml
-role:       Software Engineer
+role:       Data Engineer
 focus:      Automation · AI Agents · GraphRAG
 working_on: Labrynth AI — large-scale data pipelines 
 side_quest: Maestrum / Olume
